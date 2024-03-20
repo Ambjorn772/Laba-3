@@ -1,0 +1,14 @@
+C:\Users\Мыкола\source\repos\Laba3\bin\Debug\net6.0\Laba3.exe
+C:\Users\Мыкола\source\repos\Laba3\bin\Debug\net6.0\Laba3.deps.json
+C:\Users\Мыкола\source\repos\Laba3\bin\Debug\net6.0\Laba3.runtimeconfig.json
+C:\Users\Мыкола\source\repos\Laba3\bin\Debug\net6.0\Laba3.dll
+C:\Users\Мыкола\source\repos\Laba3\bin\Debug\net6.0\Laba3.pdb
+C:\Users\Мыкола\source\repos\Laba3\obj\Debug\net6.0\Laba3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мыкола\source\repos\Laba3\obj\Debug\net6.0\Laba3.AssemblyInfoInputs.cache
+C:\Users\Мыкола\source\repos\Laba3\obj\Debug\net6.0\Laba3.AssemblyInfo.cs
+C:\Users\Мыкола\source\repos\Laba3\obj\Debug\net6.0\Laba3.csproj.CoreCompileInputs.cache
+C:\Users\Мыкола\source\repos\Laba3\obj\Debug\net6.0\Laba3.dll
+C:\Users\Мыкола\source\repos\Laba3\obj\Debug\net6.0\refint\Laba3.dll
+C:\Users\Мыкола\source\repos\Laba3\obj\Debug\net6.0\Laba3.pdb
+C:\Users\Мыкола\source\repos\Laba3\obj\Debug\net6.0\Laba3.genruntimeconfig.cache
+C:\Users\Мыкола\source\repos\Laba3\obj\Debug\net6.0\ref\Laba3.dll
